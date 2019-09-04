@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-04T16:53:00Z" name="Suite" finished-at="2019-09-04T16:53:21Z" duration-ms="21340">
+    <groups>
+    </groups>
+    <test started-at="2019-09-04T16:53:00Z" name="Test" finished-at="2019-09-04T16:53:21Z" duration-ms="21340">
+      <class name="testPkg.SelTest1">
+        <test-method signature="test1(java.lang.String)[pri:0, instance:testPkg.SelTest1@302552ec]" started-at="2019-09-04T16:53:00Z" name="test1" finished-at="2019-09-04T16:53:21Z" duration-ms="21316" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testPkg.SelTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
